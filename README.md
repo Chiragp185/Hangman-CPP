@@ -21,17 +21,17 @@ One of the first programs I created, very basic. This just takes a character fro
 
 While printing it prints only uppercase letters and prints a ‘_’ when it encounters a lowercase letter. 
 
-*A small example: - 
+*A small example: - *
 
-*Assume the word “shiva” is stored in the array.
+*Assume the word “shiva” is stored in the array.*
 
-*If the user enters ‘i’, then the word gets converted to “shIva”.
+*If the user enters ‘i’, then the word gets converted to “shIva”.*
 
-*As mentioned above, while printing, it checks and prints only uppercase characters and ‘_’ in case of lowercase characters.
+*As mentioned above, while printing, it checks and prints only uppercase characters and ‘_’ in case of lowercase characters.*
 
-*So, while printing, it gives the output: - _ _ I _ _
+*So, while printing, it gives the output: - _ _ I _ _*
 
-*A wrong guess of an alphabet will increment a variable and the program will stop when it reaches six or seven.
+*A wrong guess of an alphabet will increment a variable and the program will stop when it reaches six or seven.*
 
 ## HANGMAN v3: -
 A huge leap from the first version. Basic graphics have been added which change the colour of the text every new screen. A menu was also added – start, how to play, settings , exit. A new category feature which allows user to select the category from where the word is – sportspersons/animals. User can also see the final score. Fixed some minor glitches too.
