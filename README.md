@@ -53,3 +53,6 @@ Fun elements added in the settings and how to play part of the menu.
 **Removed feature**- The player can no more see the letters he entered previously(correct or wrong). It has been removed due to major problems occuring in interface because of it and also it adds a bit of spice to the game :)
 
 This version is as close as it comes to to the final game. Only minor bugs have been rectified or some changes have been made to the code.
+
+### Note
+I did not include certain versions of Hangman simply because they were experimental and had too many errors for it to run. If you still wish to see them, you can mail me.
