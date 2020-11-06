@@ -21,7 +21,7 @@ One of the first programs I created, very basic. This just takes a character fro
 
 While printing it prints only uppercase letters and prints a ‘_’ when it encounters a lowercase letter. 
 
-*A small example: - *
+*A small example: -*
 
 *Assume the word “shiva” is stored in the array.*
 
