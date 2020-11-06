@@ -1,15 +1,20 @@
 # Hangman-CPP
 Hangman using C++
   
-This is the code for the Hangman game created by me using **C++**. It was created for a project when I was in school. I used to play this game from my childhood and loved it. So when I got an opportunity to recreate a beautiful game like this by myself, I couldn't hold back. Hangman is one of my first projects which is close to my heart.
+This is the code for the Hangman game created by me using **C++**. It was created for a project when I was in school. I used to play this game from my childhood and loved it. So when I got an opportunity to recreate a beautiful game like this by myself, I couldn't hold back. Hangman is one of my first projects and it is close to my heart.
 
 The **HANGMANv7.cpp** file is the one with the final code with which you can play/experiment.
-
-There are multiple files .cpp showing different versions and how I improved the game, step by step. You can find these older versions in the folder named *OlderVersions*. A description of each of these versions can be found below if you want to read.
 
 If you haven’t played Hangman before and if you want to understand the game better, I suggest you watch this video: https://www.youtube.com/watch?v=cGOeiQfjYPk
 
 For running the code, you can use a free and open source software like **Turbo C7 by Akki**. My code has been written using this compiler and I assure you that it runs perfectly in this.
+
+If you want to see how the game looks like, please check out the screenshots.
+
+There are multiple files .cpp showing different versions and how I improved the game, step by step. You can find these older versions in the folder named *OlderVersions*. A description of each of these versions can be found below if you want to read.
+
+If you want to learn and understand the code, please refer the program documentation, older versions and the content below.
+
 
 ## HANGAMAN v7: -
 Final code of the game. Works beautifully. Simple and plain graphics. Just compile, run and enjoy :)
