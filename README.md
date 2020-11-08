@@ -7,7 +7,7 @@ The **HANGMANv7.cpp** file is the one with the final code with which you can pla
 
 If you haven’t played Hangman before and if you want to understand the game better, I suggest you watch this video: https://www.youtube.com/watch?v=cGOeiQfjYPk
 
-For running the code, you can use a free and open source software like **Turbo C7 by Akki**. My code has been written using this compiler and I assure you that it runs perfectly in this.
+For running the code, you can use a free and open-source software like **Turbo C7 by Akki**. My code has been written using this compiler and I assure you that it runs perfectly in this.
 
 If you want to see how the game looks like, please check out the screenshots.
 
